@@ -1,0 +1,5 @@
+Ans1:- Neither algorithm is guaranteed to produce an optimal feasible solution to the original problem.
+Ans2:- Both algorithms remain well defined and correct after reversing the order of the for loops.
+Ans3:- 2.18
+Ans4:- All answers are correct
+Ans5:- Θ(1), Θ(n), and Θ(n2)
