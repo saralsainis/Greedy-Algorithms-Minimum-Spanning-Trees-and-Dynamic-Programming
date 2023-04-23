@@ -1,0 +1,5 @@
+Ans1:- 2230
+Ans2:- n-1
+Ans3:- If the most frequent letter has frequency less than 0.33, then all letters will be coded with at least two bits.
+Ans4:- If a vertex is excluded from the optimal solution of two consecutive subproblems, then it is excluded from the optimal solutions of all bigger subproblems.
+Ans5:- The formula is always correct in trees, and it leads to an efficient dynamic programming algorithm.
