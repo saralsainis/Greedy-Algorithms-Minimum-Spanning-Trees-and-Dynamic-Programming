@@ -1,0 +1,35 @@
+Ans1:-Suppose the edge e is the most expensive edge contained in the cycle C. Then e does not belong to any minimum spanning tree.
+
+Suppose the edge e is the cheapest edge that crosses the cut (A,B). Then e belongs to every minimum spanning tree.
+
+The minimum spanning tree is unique.
+
+
+Ans2:-All answers are correct
+
+Ans3:-Dijkstra’s single-source shortest-path algorithm (from Part 2).
+
+Prim’s minimum-spanning tree algorithm.
+
+
+Ans4:-The minimum bottleneck spanning tree problem. That is, among all spanning trees of a connected graph with edge costs, compute one with the minimum-possible maximum edge cost.
+
+The maximum-cost spanning tree problem. That is, among all spanning trees of a connected graph with edge costs, compute one with the maximum-possible sum of edge costs.
+
+Given a connected undirected graph G=(V,E) with positive edge costs, compute a minimum-cost set F⊆⊆E such that the graph (V,E−F) is acyclic.
+
+
+Ans5:-If the greedy algorithm produces a k-clustering with spacing S, then every other k-clustering has spacing at most S.
+If the greedy algorithm produces a k-clustering with spacing S, then the distance between every pair of points chosen by the greedy algorithm (one pair per iteration) is at most S.
+
+Ans6:-None of the other options are correct
+Ans7:-2250
+Ans8:-You are given n items with positive integer values and sizes, and a positive integer capacity W, as usual. The problem is to compute the max-value set of items with total size exactly W. If no such set exists, the algorithm should correctly detect that fact.
+
+You are given n items with positive integer values and sizes, as usual, and two positive integer capacities, W1 and W2. The problem is to pack items into these two knapsacks (of capacities W1 and W2) to maximize the total value of the packed items. You are not allowed to split a single item between the two knapsacks.
+
+You are given n items with positive integer values and sizes, and a positive integer capacity W, as usual. You are also given a budget k≤n on the number of items that you can use in a feasible solution. The problem is to compute the max-value set of at most k items with total size at most W.
+
+Ans9:-All Answers are correct
+
+Ans10:-2.23
